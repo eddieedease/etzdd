@@ -1,5 +1,6 @@
 body {
     background-color: #e2e3ea !important;
+    text-align: left !important;
 }
 
 .reveal {
@@ -13,4 +14,16 @@ body {
 .reveal h5,
 .reveal h6 {
     text-transform: initial !important;
+}
+
+.col1 {
+    color: #4AB5E3 !important;
+}
+
+.col2 {
+    color: #8ABE2A !important;
+}
+
+.col3 {
+    color: #013E55 !important;
 }
