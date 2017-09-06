@@ -1,0 +1,16 @@
+body {
+    background-color: #e2e3ea !important;
+}
+
+.reveal {
+    font-size: 25px !important;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    text-transform: initial !important;
+}
