@@ -27,3 +27,7 @@ body {
 .col3 {
     color: #013E55 !important;
 }
+
+.reveal .slides {
+    /* text-align: left !important; */
+}
